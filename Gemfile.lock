@@ -4,6 +4,7 @@ PLATFORMS
 DEPENDENCIES
   puma
   synatra
+  cowsay
 
 RUBY VERSION
    ruby 2.6.6p146
